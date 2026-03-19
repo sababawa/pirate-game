@@ -71,7 +71,7 @@ Collect **5,000 gold** by picking up treasure chests (press **E** when close).
 - Bronze chest — 50 g
 - Silver chest — 150 g
 - Gold chest — 400 g
-- Legendary chest — 1 000 g
+- Legendary chest — 1,000 g
 
 Enemy ships also drop loot when sunk.
 
