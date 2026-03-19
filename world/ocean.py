@@ -85,6 +85,3 @@ class OceanRenderer:
             dawn_surf = pygame.Surface((self.width, self.height), pygame.SRCALPHA)
             dawn_surf.fill((80, 30, 10, alpha))
             surface.blit(dawn_surf, (0, 0))
-
-
-

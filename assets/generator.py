@@ -251,5 +251,3 @@ def generate_coin():
     t = font.render('G', True, (180, 130, 0))
     surf.blit(t, (size // 2 - t.get_width() // 2, size // 2 - t.get_height() // 2))
     return surf
-
-
